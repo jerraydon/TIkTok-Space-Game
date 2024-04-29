@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8d341263126e3354e94b76b120f91de9
+guid: f9505e2da70738e49bba9ae9b99bd581
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 28
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenRobot_Idle1
+      name: SpaceDogIdle_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 42
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e83d1a06655b27499ec459963eb9d80
-      internalID: 1754700328
+      spriteID: ccd7975186554344ebcee97d623d5c07
+      internalID: -396843148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenRobot_Idle2
+      name: SpaceDogIdle_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 48
         y: 0
-        width: 32
-        height: 32
+        width: 42
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,8 +132,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f427484c0ced6ad42be12da372a452f1
-      internalID: 383104246
+      spriteID: 4764183545c711f4286bb70bc930cb73
+      internalID: -136462250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceDogIdle_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e52793ed0c73c24b829fee139e27ca3
+      internalID: 705392892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceDogIdle_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f178de21b232a489c5415c849eda92
+      internalID: -557783977
       vertices: []
       indices: 
       edges: []
@@ -149,8 +191,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GreenRobot_Idle1: 1754700328
-      GreenRobot_Idle2: 383104246
+      SpaceDogIdle_1: -396843148
+      SpaceDogIdle_2: -136462250
+      SpaceDogIdle_3: 705392892
+      SpaceDogIdle_4: -557783977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

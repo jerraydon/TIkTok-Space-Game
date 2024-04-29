@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 0175e59da6d7e6348b10fefcc4c91849
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueFrog_Idle2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8fcd54287f9248a799d4cb3d3f182
+      internalID: 53154448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c443398f5b2e5f449b9bd003c36a5ec
+      internalID: 894088553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866060f595f568448ae17a073046dca
+      internalID: 1868901889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToxicFrogBlueBrown_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a84692675e3144ba45c5b8c66d408
+      internalID: -2060029128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed2fee9dee0724f95428c6998e166b
+      internalID: -1483838515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf9d25ebd545b4893569e878c03972
+      internalID: -1157483196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e82f78f72ba864793321d7f95bd98b
+      internalID: -663307825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Idle8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e970843f997bb948bdc9c28eeb8fdaf
+      internalID: 693497515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679ec6d5b77d67488f16358ced7285b
+      internalID: 359612406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44872fa98b8e3604e914a2d2931d105b
+      internalID: 1307569635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead92df1a43da14595a422293387a03
+      internalID: 2126778914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb0699f2dc85f4292219ec37215457
+      internalID: -1866004817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c459d0521e1b7343b405e4cf6f7059c
+      internalID: 1825701473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ac3cf9831b89468ab806690f3ffca
+      internalID: 1445138204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueFrog_Move8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43ac55ea4972548afd48a0b389a5f3
+      internalID: -405074796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueFrog_Idle1: 1868901889
+      BlueFrog_Idle2: 53154448
+      BlueFrog_Idle4: -1483838515
+      BlueFrog_Idle5: 894088553
+      BlueFrog_Idle6: -1157483196
+      BlueFrog_Idle7: -663307825
+      BlueFrog_Idle8: 693497515
+      BlueFrog_Move1: 359612406
+      BlueFrog_Move2: 1307569635
+      BlueFrog_Move3: 2126778914
+      BlueFrog_Move4: -1866004817
+      BlueFrog_Move5: 1825701473
+      BlueFrog_Move7: 1445138204
+      BlueFrog_Move8: -405074796
+      ToxicFrogBlueBrown_Sheet_0: -2060029128
+      ToxicFrogBlueBrown_Sheet_10: 985604970
+      ToxicFrogBlueBrown_Sheet_11: -367598602
+      ToxicFrogBlueBrown_Sheet_12: 623109770
+      ToxicFrogBlueBrown_Sheet_13: -268726369
+      ToxicFrogBlueBrown_Sheet_14: 2043715549
+      ToxicFrogBlueBrown_Sheet_15: -1094213429
+      ToxicFrogBlueBrown_Sheet_16: -1352398216
+      ToxicFrogBlueBrown_Sheet_17: -2072198570
+      ToxicFrogBlueBrown_Sheet_18: 1826733566
+      ToxicFrogBlueBrown_Sheet_19: -1875197280
+      ToxicFrogBlueBrown_Sheet_20: 598018683
+      ToxicFrogBlueBrown_Sheet_21: -1374717547
+      ToxicFrogBlueBrown_Sheet_22: 203850569
+      ToxicFrogBlueBrown_Sheet_23: -1377782626
+      ToxicFrogBlueBrown_Sheet_24: 389961369
+      ToxicFrogBlueBrown_Sheet_25: 1125760008
+      ToxicFrogBlueBrown_Sheet_26: -1542540231
+      ToxicFrogBlueBrown_Sheet_27: -1987489315
+      ToxicFrogBlueBrown_Sheet_28: 1004492082
+      ToxicFrogBlueBrown_Sheet_29: 1551724608
+      ToxicFrogBlueBrown_Sheet_3: -1925922835
+      ToxicFrogBlueBrown_Sheet_30: 1580005735
+      ToxicFrogBlueBrown_Sheet_31: -131979624
+      ToxicFrogBlueBrown_Sheet_32: -256994654
+      ToxicFrogBlueBrown_Sheet_33: 383064526
+      ToxicFrogBlueBrown_Sheet_34: -133700621
+      ToxicFrogBlueBrown_Sheet_35: 124933281
+      ToxicFrogBlueBrown_Sheet_36: -1332357402
+      ToxicFrogBlueBrown_Sheet_37: 70742275
+      ToxicFrogBlueBrown_Sheet_38: 306955992
+      ToxicFrogBlueBrown_Sheet_39: 1997500654
+      ToxicFrogBlueBrown_Sheet_4: -482294428
+      ToxicFrogBlueBrown_Sheet_40: 1023413980
+      ToxicFrogBlueBrown_Sheet_41: 1751325689
+      ToxicFrogBlueBrown_Sheet_42: 1590985424
+      ToxicFrogBlueBrown_Sheet_43: 1493236427
+      ToxicFrogBlueBrown_Sheet_5: 238150999
+      ToxicFrogBlueBrown_Sheet_6: 1607042150
+      ToxicFrogBlueBrown_Sheet_7: -1671576019
+      ToxicFrogBlueBrown_Sheet_8: 1257343732
+      ToxicFrogBlueBrown_Sheet_9: 1614248275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
